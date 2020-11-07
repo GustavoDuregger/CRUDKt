@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRUDKt</string>
+
+    <!--SubscriberFragment-->
+    <string name="subscriber_name_hint">Subscriber\'s name</string>
+    <string name="subscriber_email_hint">E-mail</string>
+    <string name="subscriber_button">Add</string>
+    <string name="subscriber_title">Subscriber</string>
+
+    <string name="subscriber_inserted_succesfully">Subscriber was sucessfully inserted</string>
+    <string name="subscriber_error_to_insert">There was an error when inserting Subscriber</string>
+</resources>
